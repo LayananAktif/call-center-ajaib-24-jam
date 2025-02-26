@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.domainanda.com/sitemap.xml
+Sitemap: https://call-center-ajaib-24-jam.vercel.app/sitemap.xml
